@@ -1,8 +1,8 @@
-message  = 'bonjour ca va mon gars comment tu te sens'
+message  = 'Phrase'
 key = 1
 alphabet = 'abcdefghijklmnopqrstuvwxyz'
 spec_car = " !#$%&'()*+,-./:;<=>?@[\]^_`{|}~1234567890"
-dictionaire = ' salut bonjour comment ca va'
+dictionaire = 'Dict'
 split_dict = dictionaire.split()
 
 
